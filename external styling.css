@@ -1,0 +1,58 @@
+.External{
+	color: maroon;
+	font-size: 30px;
+	font-family: initial;
+}
+
+
+#hello{
+	color: green;
+	font-family: italic;
+	font-size: 20px;
+}
+p{
+	color: blue;
+	font-size: 20px;
+	font-family: bold;
+
+}
+div{
+	background-color: skyblue;
+	height: 300px;
+	width: 400px;
+}
+*{
+	font-size: 40px;
+	font-family: cursive;
+}
+input[type]{
+	color: yellow
+}
+input[type="text"]{
+	color: green
+}
+input[type="number"]
+{
+	color: blue
+}
+a[href]{
+	background-color: seagreen
+}
+a:link{
+	color:purple;  
+}
+a: visited{
+	color: yellow;
+}
+a:hover{
+	color: violet;
+	font-size: 20px
+}
+a:active{
+	color: pink
+}
+div:hover{
+	height: 400px;
+	width: 300px;
+	background-color: orange
+}
